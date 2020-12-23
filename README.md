@@ -1,5 +1,5 @@
 # Benchmark
-Go program to smoke your server
+Go program to test your server for load. You can load your server for 1000s of concurrent and test for scale.
 
 # Run as
 go run benchmark.go https://google.com/
